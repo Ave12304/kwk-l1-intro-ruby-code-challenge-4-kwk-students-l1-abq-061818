@@ -6,14 +6,17 @@ if cents%25 >= 0
 elsif cents%10 >= 0
 elsif cents%5 >= 0
 else cents%1 >= 0
+end
 
 end
+
 def cents_25 (x)
 if number%25
 elsif cents%10 >= 0
 elsif cents%5 >= 0
 else cents%1 >= 0
 end
+
 end
 
 def cents_10 (y)
